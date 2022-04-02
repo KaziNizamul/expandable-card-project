@@ -1,2 +1,5 @@
 # expandable-card-project
-Created with CodeSandbox
+
+A card animation using Framer-Motion library.
+
+
