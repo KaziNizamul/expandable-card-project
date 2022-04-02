@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to right, rgb(255, 230, 234), rgb(210, 157, 166));
+}
+
+.App {
+  font-family: sans-serif;
+
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card{
+  padding: 3rem 5rem;
+  background:white;
+
+  p{
+    line-height: 150%;
+    padding-top: 1rem;
+  }
+}
